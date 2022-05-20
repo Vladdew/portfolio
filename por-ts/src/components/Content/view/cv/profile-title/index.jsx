@@ -29,7 +29,7 @@ const ProfileTitle = () => (
     >
       <p className="profile-title__cwars-t1">codewars</p>
       <p className="profile-title__cwars-t2">
-        more than 100 solwed
+        more than 100 solved
         <br /> problems
       </p>
       <img
