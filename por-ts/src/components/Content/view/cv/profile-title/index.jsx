@@ -16,10 +16,16 @@ const ProfileTitle = () => (
         if (typeof window !== "undefined") {
           if (window.innerWidth < 633) {
             if (count) {
-              window.location.href = "https://www.codewars.com/users/Vlad04ek";
+              window.open(
+                "https://www.codewars.com/users/%3CVladok%2F%3E",
+                "_blank"
+              );
             }
           } else {
-            window.location.href = "https://www.codewars.com/users/Vlad04ek";
+            window.open(
+              "https://www.codewars.com/users/%3CVladok%2F%3E",
+              "_blank"
+            );
           }
 
           count++;

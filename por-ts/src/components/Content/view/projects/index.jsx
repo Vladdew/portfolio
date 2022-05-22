@@ -52,7 +52,7 @@ const Projects = props => {
     setTimeout(() => setAnimationFlag(true));
     return;
   };
-
+  console.log(projects);
   return (
     <div className="projects">
       <div className="projects__container">
@@ -65,7 +65,6 @@ const Projects = props => {
         {Array.isArray(projects) && (
           <Project project={vipclub} animated={flag} />
         )}
-
         {Array.isArray(projects) && (
           <Project project={lepestok} animated={flag} />
         )}

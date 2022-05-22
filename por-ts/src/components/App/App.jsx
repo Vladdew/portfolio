@@ -1,8 +1,5 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-
-import 'normalize.css';
-import Content from '../Content';
+import "normalize.css";
+import Content from "../Content";
 // import './App.scss';
 
 const App = () => (
@@ -15,6 +12,5 @@ const App = () => (
     </div>
   </div>
 );
-
 
 export default App;

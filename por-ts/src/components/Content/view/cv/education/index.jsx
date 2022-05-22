@@ -19,8 +19,8 @@ const Education = () => (
       East Ukrainian National University. Automated technological process
       control.
     </p>
-    <p className="education__vuz">
-      <span className="education__qualify">React developer</span>
+    <p className="education__vuz education__qualify">
+      React developer
       <br />
       Mate academy online
     </p>
