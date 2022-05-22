@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b826708a.css",
-    "main.js": "./static/js/main.7777c1b4.js",
+    "main.css": "./static/css/main.639da078.css",
+    "main.js": "./static/js/main.b69b7c8e.js",
     "static/media/gazon.jpg": "./static/media/gazon.0b8cb9de8e1bc64ccc71.jpg",
     "static/media/photo1.jpg": "./static/media/photo1.f95862079841387faa05.jpg",
     "static/media/fon-mobile.jpg": "./static/media/fon-mobile.f5b0db18763877d5aac8.jpg",
@@ -24,11 +24,11 @@
     "static/media/miami.jpg": "./static/media/miami.e44ad5048bb50a3512c6.jpg",
     "static/media/d3.jpg": "./static/media/d3.3f4e5b06a6eb8f8ae23f.jpg",
     "index.html": "./index.html",
-    "main.b826708a.css.map": "./static/css/main.b826708a.css.map",
-    "main.7777c1b4.js.map": "./static/js/main.7777c1b4.js.map"
+    "main.639da078.css.map": "./static/css/main.639da078.css.map",
+    "main.b69b7c8e.js.map": "./static/js/main.b69b7c8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b826708a.css",
-    "static/js/main.7777c1b4.js"
+    "static/css/main.639da078.css",
+    "static/js/main.b69b7c8e.js"
   ]
 }
