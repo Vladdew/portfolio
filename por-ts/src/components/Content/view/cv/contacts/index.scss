@@ -52,6 +52,11 @@
       transform: scaleX(-1);
     }
   }
+  &__contactme.copied {
+    &:hover img {
+      transform: scaleX(1);
+    }
+  }
 
   &__home-link,
   .contacts-wrap__call-link {
@@ -70,6 +75,15 @@
     right: 42px;
     font-size: 9px;
     letter-spacing: 1.4px;
+  }
+
+  &__contact-title-email-copied {
+    top: 13px;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 4px;
+    color: #282727;
+    background: white;
   }
 
   &__contact-styles {

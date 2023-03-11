@@ -17,7 +17,7 @@ const MainInfo = () => (
       Vladyslav
     </h2>
     <div className="main-info__status">React developer</div>
-    <div className="main-info__address">Kharkiv, Ukraine</div>
+    <div className="main-info__address">Goslar, Germany</div>
   </div>
 );
 

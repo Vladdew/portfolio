@@ -8,8 +8,8 @@ const Exp = () => (
       <h3 className="exp__pe-title">PROFESSIONAL EXPERIENCE</h3>
       <p className="exp__accent-gray" />
       <p className="exp__pe-description">
-        A couple of years of experience in freelance. A year of commercial
-        experience as a react developer in IT company
+        A couple of years of experience in freelance. Two years of commercial
+        experience as a react developer in two IT companys
         <br />
         React/Redux/KonvaJS/TypeScript
       </p>
@@ -34,7 +34,7 @@ const Exp = () => (
       </div>
       <div className="exp__item-wrap">
         <span className="exp__item">JavaScript:</span>
-        <p className="exp__skill">React, Konva, JQuery, TS</p>
+        <p className="exp__skill">React, Konva, D3.js, TS</p>
         <hr className="exp__hr" />
       </div>
       <div className="exp__item-wrap exp__item-wrap6">

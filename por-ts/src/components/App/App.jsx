@@ -1,6 +1,5 @@
 import "normalize.css";
 import Content from "../Content";
-// import './App.scss';
 
 const App = () => (
   <div className="App">

@@ -1,17 +1,17 @@
 .profile-description {
-    height: 108px;
-    box-sizing: border-box;
-    margin-top: -108px;
-    text-align: left;
-    color: white;
-    font-size: 11px;
-    line-height: 14px;
-    letter-spacing: 1.1px;
-    padding: 16px 30px 13px 50px;
-    background: #b39933;
-    grid-area: description;
-    
-    &__br {
-        display: none;
-    }
+  height: 108px;
+  box-sizing: border-box;
+  margin-top: -108px;
+  text-align: left;
+  color: white;
+  font-size: 11px;
+  line-height: 14px;
+  letter-spacing: 1.1px;
+  padding: 13px 30px 13px 50px;
+  background: #b39933;
+  grid-area: description;
+
+  &__br {
+    display: none;
+  }
 }
